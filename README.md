@@ -20,7 +20,7 @@ Videos with no content type annotation (N/A) were excluded from the released dat
 | File | Rows | Description |
 |------|------|-------------|
 | `dataset_tiktok_anonymised.csv` | 100 | Main dataset — fully annotated videos only (no N/A entries). Used for all quantitative analysis in the paper. |
-| `dataset_tiktok_full_anonymised.csv` | 128 | Complete combined dataset including videos coded N/A (no relevant content type). Useful for replication of collection methodology. Content types normalised to `rec`, `int`, `rec+int`, `N/A`. |
+
 
 ## Columns
 
