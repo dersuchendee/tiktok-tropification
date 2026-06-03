@@ -1,4 +1,4 @@
-# BookTok *Enemies-to-Lovers* Dataset: Tropes as Prescriptive Devices
+# BookTok *Enemies-to-Lovers* Dataset: Literary Tropes as Prescriptive Devices
 
 Dataset of TikTok BookTok content collected to support the observational case study on literary tropes as prescriptive devices reported in the paper below.
 
