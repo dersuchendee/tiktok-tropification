@@ -4,7 +4,7 @@ Dataset of TikTok BookTok content collected to support the observational case st
 
 ## Citation
 
-> Silvia Cappa, Mariangela Giglio, and Anna Sofia Lippolis. **Literary Tropes as Prescriptive Devices: A Case Study from BookTok.** In *Proceedings of AIUCD 2026*. CNR – Institute of Cognitive Sciences and Technologies, Bologna, Italy; University of Bologna, Italy.
+> Silvia Cappa, Mariangela Giglio, and Anna Sofia Lippolis. **Literary Tropes as Prescriptive Devices: A Case Study from BookTok.** In *Proceedings of AIUCD 2026*. .
 
 ## Overview
 
